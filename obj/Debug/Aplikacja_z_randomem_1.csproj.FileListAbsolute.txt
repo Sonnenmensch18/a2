@@ -1,0 +1,10 @@
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\bin\Debug\Aplikacja_z_randomem_1.exe.config
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\bin\Debug\Aplikacja_z_randomem_1.exe
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\bin\Debug\Aplikacja_z_randomem_1.pdb
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.csprojAssemblyReference.cache
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.Form1.resources
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.Properties.Resources.resources
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.csproj.GenerateResource.cache
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.exe
+C:\Users\milan\source\repos\Aplikacja_z_randomem_1\obj\Debug\Aplikacja_z_randomem_1.pdb
